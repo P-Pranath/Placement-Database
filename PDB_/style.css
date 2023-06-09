@@ -1,0 +1,191 @@
+.btn{
+  width: 50%; 
+  border: 2px solid black; 
+  border-radius: 20px;
+}
+
+.btn2{ 
+  border: 2px solid black; 
+  border-radius: 2px;
+  color: white;
+  background: black;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.btn2:hover{
+  color: white;
+}
+
+.space{
+  margin-top: 140px;
+}
+
+.down{
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.geeks{
+  height: 100vh;
+  width: 98.7vw;  
+  /*background: skyblue;*/
+  background-image: url("/PDB_/image_/back9.png");
+  /*background-repeat: no-repeat;*/
+  color: white;
+  margin-right: 10px;
+}
+
+.container2{
+  margin: 0px;
+  padding: 0px;
+  padding-top: 90px;
+}
+.container3{
+  margin: 0px;
+  padding: 0px;
+}
+
+.c input{
+  width: 50%;
+}
+
+.mb-3{
+  /*padding-left: 327px;*/
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+#head{
+  padding-right: 14px;
+  padding-top: 29px;
+  color: black;
+}
+
+.c{
+  color: black;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto; 
+  width:auto;
+}
+
+#Sp{
+  padding-top: 9px;
+}
+
+.x{
+  background-image: url("/PDB_/image_/back1.png");
+  /*background: #afb6b8;*/
+}
+
+#navbarNav b{
+  color: #000000E6;
+}
+
+.content{
+  width: 100vw;
+  height: 100vh;
+}
+
+.content a{
+  margin-top: 100px;
+  margin-left: 900px;
+}
+
+.geek{
+  height: 100vh;
+  width: 98.7vw;  
+  background-image: url("/PDB_/image_/back9.png");
+  color: darkred;
+}
+
+.cent{
+  width: 70%;
+  padding: 0;
+  margin-left: 225px;
+  text-align: center;
+  margin-top: 100px
+}
+
+.filter h5{
+  padding-top: 60px;
+  margin-left: 110px;
+  color: black;
+}
+
+.f1{
+  margin-left: 110px;
+}
+
+.f2{
+  margin-left: 400px;
+  margin-bottom: 100px;
+}
+
+.f2 h5{
+  padding-top: 0px;
+  margin-left: 1px;
+}
+
+.insmain{
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 70%;
+}
+
+.inss{
+  margin-left: 120px;
+}
+
+html, body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  background-image: url("/PDB_/image_/back9.png");
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:500px; /* this needs to be bigger than footer height*/
+}
+
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  clear:both; 
+} 
+
+#wrap td{
+  text-align: left;
+}
+
+.er{
+  margin-left:auto;
+  margin-right:auto;
+  height:auto; 
+  width:auto;
+}
+
+ #er1{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+  border: solid black 5px;
+}
+#er2{
+  float:left; 
+  border: solid black 5px;
+} 
+
+
+
+
+
+

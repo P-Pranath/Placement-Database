@@ -1,0 +1,144 @@
+.btn{
+  width: 50%; 
+  border: 2px solid black; 
+  border-radius: 20px;
+}
+
+.btn2{ 
+  border: 2px solid black; 
+  border-radius: 2px;
+  color: white;
+  background: black;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.btn2:hover{
+  color: white;
+}
+
+.space{
+  margin-top: 140px;
+}
+
+.down{
+  margin-left: 200px;
+  padding-left: 127px;
+  color: black;
+}
+
+.geeks{
+  height: 100vh;
+  width: 98.7vw;  
+  /*background: skyblue;*/
+  background-image: url("/PDB_/image_/back9.png");
+  /*background-repeat: no-repeat;*/
+  color: white;
+  margin-right: 10px;
+}
+
+.container2{
+  margin: 0px;
+  padding: 0px;
+  padding-top: 90px;
+}
+.container3{
+  margin: 0px;
+  padding: 0px;
+}
+
+.c input{
+  width: 50%;
+}
+
+.mb-3{
+  padding-left: 327px;
+  color: black;
+}
+
+#head{
+  padding-right: 14px;
+  padding-top: 29px;
+  color: black;
+}
+
+.c{
+  color: black;
+}
+
+#Sp{
+  padding-top: 9px;
+}
+
+.x{
+  background-image: url("/PDB_/image_/back1.png");
+  /*background: #afb6b8;*/
+}
+
+#navbarNav b{
+  color: #000000E6;
+}
+
+.content{
+  width: 100vw;
+  height: 100vh;
+}
+
+.content a{
+  margin-top: 100px;
+  margin-left: 900px;
+}
+
+.geek{
+  height: 100vh;
+  width: 98.7vw;  
+  background-image: url("/PDB_/image_/back9.png");
+  color: darkred;
+}
+
+.cent{
+  width: 70%;
+  padding: 0;
+  margin-left: 225px;
+  text-align: center;
+  margin-top: 100px
+}
+
+.filter h5{
+  padding-top: 60px;
+  margin-left: 110px;
+  color: black;
+}
+
+.f1{
+  margin-left: 110px;
+}
+
+.f2{
+  margin-left: 400px;
+  margin-bottom: 100px;
+}
+
+.f2 h5{
+  padding-top: 0px;
+  margin-left: 1px;
+}
+
+.insmain{
+  margin-top: 80px;
+  margin-left: 500px;
+}
+
+.inss{
+  margin-left: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
